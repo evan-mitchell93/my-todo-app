@@ -1,0 +1,15 @@
+[{
+    "id": 1,
+    "task": "Learn React",
+    "finished": false
+},
+{
+    "id": 2,
+    "task":"Read Moby Dick",
+    "finished": false
+},
+{
+    "id": 3,
+    "task": "Read Project Hail Mary",
+    "finished": true
+}]
