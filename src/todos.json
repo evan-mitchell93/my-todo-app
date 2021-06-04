@@ -12,4 +12,14 @@
     "id": 3,
     "task": "Read Project Hail Mary",
     "finished": true
+},
+{
+    "id": 4,
+    "task": "Study for ccna cert",
+    "finished": false
+},
+{
+    "id": 5,
+    "task": "Go to gym",
+    "finished": true
 }]

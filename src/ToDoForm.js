@@ -10,8 +10,13 @@ const TodoForm = ({addTask}) =>{
 
     const submitHandler = (e) => {
         e.preventDefault();
-        addTask(input);
-        setInput("");
+        if(input !== ""){
+            addTask(input);
+            setInput("");
+        }
+        else{
+            alert("Cannot add blank todo");
+        }
     }
 
     return (
